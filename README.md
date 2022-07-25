@@ -18,4 +18,4 @@ As Database, MySQL is used in Backend.
 
 ## Frontend Repo
 
-Angular frontend repo is -> [here](https://github.com/omerjava/employeeManagerApp)
+Angular frontend repo is -> [https://github.com/omerjava/employeeManagerApp](https://github.com/omerjava/employeeManagerApp)
